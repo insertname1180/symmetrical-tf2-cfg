@@ -2,7 +2,7 @@
 Generally what this CFG does is the following,
 * Improves LOD, textures, memory, etc.. for performance
 * Reduces unnoticable quality settings
-* Allows the player to be able to change things without ruining the CFG
+* Add as a drop in replacement, or copy the autoexec.cfg contents to the bottom of your current autoexec.cfg
 ### Notes
 * Tested using Linux only
 * Results will vary between systems and configurations
