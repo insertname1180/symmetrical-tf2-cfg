@@ -6,6 +6,8 @@ Generally what this CFG does is the following,
 ### Notes
 * Tested using Linux only
 * Results will vary between systems and configurations
+* Depending on your system, setting ``threadpool_affinity 1`` may help performance.
+* On NVIDIA systems ``gl_amd_occlusion_workaround 0`` may help performance.
 # How to install
 Right click TF2 in steam
 
