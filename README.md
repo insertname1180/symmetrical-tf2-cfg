@@ -2,6 +2,7 @@
 Generally what this CFG does is the following,
 * Improves LOD, textures, memory, etc.. for performance
 * Reduces unnoticable quality settings
+* Should not interfere with network settings
 * Add as a drop in replacement, or copy the autoexec.cfg contents to the bottom of your current autoexec.cfg
 ### Notes
 * Tested using Linux only
