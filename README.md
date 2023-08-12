@@ -16,7 +16,7 @@ Navigate to properties, then click browse...
 
 Copy the file to ``tf/cfg``
 
-Open ``autoexec.cfg`` and write on the very bottom ``exec symmetrical-balanced``
+Open ``autoexec.cfg`` and write on the very top ``exec symmetrical-balanced``
 
 Add the following launch arguments:
 
