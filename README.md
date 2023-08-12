@@ -17,6 +17,6 @@ Copy the file to ``tf/cfg``
 
 Add the following launch arguments:
 
-``-console -high -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -hushasserts -threads 5000 -random_invariant -noassert -r_emulate_gl -swapcores -glmdisabletrustblit -glmdisabletrustmsaa``
+``-console -high -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -hushasserts -threads 6500 -random_invariant -noassert -r_emulate_gl -swapcores -glmdisabletrustblit -glmdisabletrustmsaa``
 
 Run TF2
