@@ -15,6 +15,8 @@ Navigate to properties, then click browse...
 
 Copy the file to ``tf/cfg``
 
+Open ``autoexec.cfg`` and write on the very bottom ``exec symmetrical-balanced``
+
 Add the following launch arguments:
 
 ``-console -high -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -hushasserts -threads 6500 -random_invariant -noassert -r_emulate_gl -swapcores -glmdisabletrustblit -glmdisabletrustmsaa``
