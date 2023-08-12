@@ -16,7 +16,13 @@ Navigate to properties, then click browse...
 
 Copy the file to ``tf/cfg``
 
-Open ``autoexec.cfg`` and write on the very top ``exec symmetrical-balanced``
+Open ``autoexec.cfg``
+
+Copy on the very bottom ``exec symmetrical-balanced`` to override autoexec cvars
+
+Copy to the very top ``exec symmetrical-balanced`` to not override autoexec cvars
+
+(Optional) below ``exec  symmetrical-balanced``, Copy ``exec symmetrical-balanced-experimental`` for unstable experimental cvars
 
 Add the following launch arguments:
 
